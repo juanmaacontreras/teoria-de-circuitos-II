@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# LTspice temporary files
+*.raw
+*.log
+*.op.alt
+*.net
+*.txt
+
+# OS metadata
+Thumbs.db
+.DS_Store
